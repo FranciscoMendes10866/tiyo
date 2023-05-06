@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1683391256200,
+      "tag": "0000_wise_lady_vermin",
+      "breakpoints": false
+    }
+  ]
+}
